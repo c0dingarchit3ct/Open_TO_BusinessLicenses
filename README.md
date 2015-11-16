@@ -8,3 +8,4 @@ Matplotlib
 Pandas
 numpy
 gmaps (if you want to use the plotting)
+ipywidgets (For user interface )
